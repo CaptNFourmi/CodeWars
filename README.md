@@ -1,2 +1,2 @@
-# CodeWars_JS
+# CodeWars
 My solutions of Codewars's Kata
